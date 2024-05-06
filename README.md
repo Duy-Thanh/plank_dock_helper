@@ -2,6 +2,8 @@
 
 This is a collection of small shell files written by me to add some capabilities to the Plank dock, especially supporting multi-screen display smoothly
 
+Worked on all Linux distros
+
 
 ## Features
 - Support displaying dock on multi-monitor smoothly, even if the computer just wakes up from sleep, sleeps or restarts
